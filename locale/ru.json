@@ -1,0 +1,25 @@
+{
+    "VIEW_USER_AVATAR_BUTTON": "Аватар",
+    "VIEW_USER_INFO_BUTTON": "Информация о пользователе",
+
+    "REPORT_BAD_WORD_BUTTON": "Репортнуть плохое слово",
+
+    "TRANSLATE_TO_RUSSIAN_BUTTON": "Перевести на Русский",
+    "TRANSLATE_TO_ENGLISH_BUTTON": "Перевести на Английский",
+
+    "ABOUT_DRAGONBOT_DESCRIPTION_SLASH_COMMAND": "О DragonBot",
+    "STATS_DRAGONBOT_DESCRIPTION_SLASH_COMMAND": "Статистика DragonBot",
+    "SEND_BUG_REPORT_DESCRIPTION_SLASH_COMMAND": "Отправить сообщение об ошибке",
+    "VIEW_BOT_SETTINGS_DESCRIPTION_SLASH_COMMAND": "Посмотреть настройки бота на этом сервере",
+    "DEV_PANEL_DEV_ONLY_DESCRIPTION_SLASH_COMMAND": "Панель разработчика (Только для разработчиков)",
+    "ANIMALS_DESCRIPTION_SLASH_COMMAND": "Показывает картинки с изображением животных",
+    "ENABLE_OR_DISABLE_AUTOMOD_DESCRIPTION_SLASH_COMMAND": "Включить/выключить авто-модерацию",
+    "CLEAR_CHAT_DESCRIPTION_SLASH_COMMAND": "Очистить чат",
+    "BACKUP_SERVER_DESCRIPTION_SLASH_COMMAND": "Управление резервной копией сервера (Бета)",
+    "SERVER_INFO_DESCRIPTION_SLASH_COMMAND": "Информация о сервере",
+
+    "RANK_CARD_SET_OWN_FONT_DESCRIPTION": "Поставить свой шрифт для карточки ранга",
+    "RANK_CARD_SET_OWN_BACKGROUND_DESCRIPTION": "Поставить свой баннер для карточки ранга",
+    "RANK_CARD_SET_OWN_COLOR_USERNAME_AND_LEVEL_DESCRIPTION": "Поставить свой цвет для ника и уровня в карточке ранга",
+    "RANK_CARD_VIEW_MY_RANK_DESCRIPTION": "Посмотреть свою ранг карточку"
+}
