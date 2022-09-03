@@ -21,6 +21,19 @@
     "GENERATE_EMBED_DESCRIPTION": "Сгенерировать эмбед",
     "GENERATE_GIF_DESCRIPTION": "Создать гиф из изображений (Все форматы поддерживаются)",
 
+    "VOICE_PLAY_DESCRIPTION": "Воспроизвести музыку",
+
+    "GENAI_TOGGLE_DESCRIPTION": "Включить/выключить GenAi в определённом канале",
+
+    "IMAGE_TOOLS_DESCRIPTION": "Инструменты для работы с изображениями",
+
+    "INTERSERVER_CONNECT_DESCRIPTION": "Включить/выключить межсервер в определённом канале",
+
+    "RAND_UUID_DESCRIPTION": "Генерирует случайный идентификатор",
+    "RAND_NUMBER_DESCRIPTION": "Генерирует случайное число",
+    "RAND_STRING_DESCRIPTION": "Генерирует случайную строку",
+    "RAND_TOKEN_DESCRIPTION": "Генерирует случайный токен (На самом деле он не валидный)",
+
     "RANK_CARD_SET_OWN_FONT_DESCRIPTION": "Поставить свой шрифт для карточки ранга",
     "RANK_CARD_SET_OWN_BACKGROUND_DESCRIPTION": "Поставить свой баннер для карточки ранга",
     "RANK_CARD_SET_OWN_COLOR_USERNAME_AND_LEVEL_DESCRIPTION": "Поставить свой цвет для ника и уровня в карточке ранга",
