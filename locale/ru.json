@@ -29,6 +29,21 @@
 
     "INTERSERVER_CONNECT_DESCRIPTION": "Включить/выключить межсервер в определённом канале",
 
+    "CHANGE_BOT_LANG_DESCRIPTION": "Изменить язык бота",
+
+    "HELP_DESCRIPTION": "Показывает помощь по командам",
+
+    "ANIME_DESCRIPTION": "Не знаю как назвать эту команду, но она связана с аниме",
+
+    "ECONOMIC_BALANCE_DESCRIPTION": "Ваш баланс",
+    "ECONOMIC_BUY_DESCRIPTION": "Купить вещь из магазина",
+    "ECONOMIC_SHOP_DESCRIPTION": "Магазин",
+
+    "MOD_BAN_DESCRIPTION": "Забанить пользователя",
+    "MOD_KICK_DESCRIPTION": "Кикнуть пользователя",
+    "MOD_MUTE_DESCRIPTION": "Заглушить пользователя",
+    "MOD_UNBAN_DESCRIPTION": "Разблокировать пользователя",
+
     "RAND_UUID_DESCRIPTION": "Генерирует случайный идентификатор",
     "RAND_NUMBER_DESCRIPTION": "Генерирует случайное число",
     "RAND_STRING_DESCRIPTION": "Генерирует случайную строку",
