@@ -54,5 +54,8 @@
     "RANK_CARD_SET_OWN_FONT_DESCRIPTION": "Поставить свой шрифт для карточки ранга",
     "RANK_CARD_SET_OWN_BACKGROUND_DESCRIPTION": "Поставить свой баннер для карточки ранга",
     "RANK_CARD_SET_OWN_COLOR_USERNAME_AND_LEVEL_DESCRIPTION": "Поставить свой цвет для ника и уровня в карточке ранга",
-    "RANK_CARD_VIEW_MY_RANK_DESCRIPTION": "Посмотреть свою ранг карточку"
+    "RANK_CARD_VIEW_MY_RANK_DESCRIPTION": "Посмотреть свою ранг карточку",
+
+    "FILE_UPLOAD_DESCRIPTION": "Загрузить файл на сервер",
+    "FILE_GET_DESCRIPTION": "Получить файл с сервера"
 }
