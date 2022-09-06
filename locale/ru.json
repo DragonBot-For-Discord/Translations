@@ -7,10 +7,10 @@
     "TRANSLATE_TO_RUSSIAN_BUTTON": "Перевести на Русский",
     "TRANSLATE_TO_ENGLISH_BUTTON": "Перевести на Английский",
 
-    "ABOUT_DRAGONBOT_DESCRIPTION_SLASH_COMMAND": "О DragonBot",
-    "STATS_DRAGONBOT_DESCRIPTION_SLASH_COMMAND": "Статистика DragonBot",
+    "ABOUT_DRAGONBOT_SLASH_COMMAND": "О DragonBot",
+    "STATS_DRAGONBOT_SLASH_COMMAND": "Статистика DragonBot",
     "SEND_BUG_REPORT_DESCRIPTION_SLASH_COMMAND": "Отправить сообщение об ошибке",
-    "VIEW_BOT_SETTINGS_DESCRIPTION_SLASH_COMMAND": "Посмотреть настройки бота на этом сервере",
+    "VIEW_BOT_SETTINGS_SLASH_COMMAND": "Посмотреть настройки бота на этом сервере",
     "DEV_PANEL_DEV_ONLY_DESCRIPTION_SLASH_COMMAND": "Панель разработчика (Только для разработчиков)",
     "ANIMALS_DESCRIPTION_SLASH_COMMAND": "Показывает картинки с изображением животных",
     "ENABLE_OR_DISABLE_AUTOMOD_DESCRIPTION_SLASH_COMMAND": "Включить/выключить авто-модерацию",
